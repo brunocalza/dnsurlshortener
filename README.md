@@ -14,7 +14,7 @@ Access `short.brunocalza.me/buffer` in the browser.
 
 ## DNS Lookup
 
-`dig buffer.short.brunocalza.me TXT`
+`dig buffer.short.brunocalza.me TXT +short`
 
 ## Full code
 
